@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>@ViewBag.Title</title>
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="stylesheet" href="~/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/font-awesome/css/font-awesome.min.css">
+    <link href="~/assets/data-tables/bootstrap3/dataTables.bootstrap.css" rel="stylesheet" />
+    <!--page specific css styles-->
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700&amp;subset=vietnamese" rel="stylesheet">    <!--flaty css styles-->
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/Content/flaty.css">
+    <link rel="stylesheet" href="~/Content/flaty-responsive.css">
+
+   
+    
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+    <script>window.jQuery || document.write('<script src="assets/jquery/jquery-2.1.1.min.js"><\/script>')</script>
+    <script src="~/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/assets/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+    <script src="~/assets/jquery-cookie/jquery.cookie.js"></script>
+
+    <!--page specific plugin scripts-->
+    <script src="~/assets/flot/jquery.flot.js"></script>
+    <script src="~/assets/flot/jquery.flot.resize.js"></script>
+    <script src="~/assets/flot/jquery.flot.pie.js"></script>
+    <script src="~/assets/flot/jquery.flot.stack.js"></script>
+    <script src="~/assets/flot/jquery.flot.crosshair.js"></script>
+    <script src="~/assets/flot/jquery.flot.tooltip.min.js"></script>
+    <script src="~/assets/sparkline/jquery.sparkline.min.js"></script>
+    <script src="~/assets/data-tables/jquery.dataTables.js"></script>
+    <script src="~/assets/data-tables/bootstrap3/dataTables.bootstrap.js"></script>
+    <!--flaty scripts-->
+    <script src="~/Scripts/flaty.js"></script>
+    <script src="~/Scripts/flaty-demo-codes.js"></script>
+    <script src="~/Scripts/sweetalert.all.js"></script>
+    <script src="~/Scripts/function.js"></script>
+    <script src="~/assets/noti/alertify.min.js"></script>
+    <script src="~/assets/noti/notify.min.js"></script>
+    <script src="https://apis.google.com/js/platform.js?onLoad=onLoad" async defer></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+E:\HCMUE\CNWEB\ccWeb\UserFB\bin\Debug\UserFB.dll
+E:\HCMUE\CNWEB\ccWeb\UserFB\bin\Debug\UserFB.pdb
+E:\HCMUE\CNWEB\ccWeb\UserFB\obj\Debug\UserFB.csprojAssemblyReference.cache
+E:\HCMUE\CNWEB\ccWeb\UserFB\obj\Debug\UserFB.dll
+E:\HCMUE\CNWEB\ccWeb\UserFB\obj\Debug\UserFB.pdb
+D:\tund\cnweb\UserFB\bin\Debug\UserFB.dll
+D:\tund\cnweb\UserFB\bin\Debug\UserFB.pdb
+D:\tund\cnweb\UserFB\obj\Debug\UserFB.csprojAssemblyReference.cache
+D:\tund\cnweb\UserFB\obj\Debug\UserFB.csproj.CoreCompileInputs.cache
+D:\tund\cnweb\UserFB\obj\Debug\UserFB.dll
+D:\tund\cnweb\UserFB\obj\Debug\UserFB.pdb

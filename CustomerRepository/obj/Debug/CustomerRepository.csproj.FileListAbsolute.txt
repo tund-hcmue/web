@@ -1,0 +1,90 @@
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\bin\Debug\CustomerRepository.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\bin\Debug\CustomerRepository.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\bin\Debug\ConnectDataBase.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\bin\Debug\ConnectDataBase.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.csproj.CopyComplete
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\bin\Debug\Customer.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerRepository\bin\Debug\Customer.pdb
+D:\website\QuanLyBanHang\CustomerRepository\bin\Debug\CustomerRepository.dll
+D:\website\QuanLyBanHang\CustomerRepository\bin\Debug\CustomerRepository.pdb
+D:\website\QuanLyBanHang\CustomerRepository\bin\Debug\ConnectDataBase.dll
+D:\website\QuanLyBanHang\CustomerRepository\bin\Debug\Customer.dll
+D:\website\QuanLyBanHang\CustomerRepository\bin\Debug\ConnectDataBase.pdb
+D:\website\QuanLyBanHang\CustomerRepository\bin\Debug\Customer.pdb
+D:\website\QuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.csprojAssemblyReference.cache
+D:\website\QuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.csproj.CoreCompileInputs.cache
+D:\website\QuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.csproj.CopyComplete
+D:\website\QuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.dll
+D:\website\QuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\bin\Debug\CustomerRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\bin\Debug\CustomerRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\bin\Debug\ConnectDataBase.dll
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\bin\Debug\Customer.dll
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\bin\Debug\ConnectDataBase.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\bin\Debug\Customer.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.csprojAssemblyReference.cache
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.csproj.CoreCompileInputs.cache
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.csproj.CopyComplete
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\bin\Debug\CustomerRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\bin\Debug\CustomerRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\bin\Debug\Customer.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\bin\Debug\Customer.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\obj\Debug\CustomerRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerRepository\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\CustomerRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\CustomerRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\Customer.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\Customer.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\obj\Debug\CustomerRepository.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\obj\Debug\CustomerRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\obj\Debug\CustomerRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\EPPlus.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\CustomerRepository\bin\Debug\EPPlus.xml
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\CustomerRepository.dll
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\CustomerRepository.pdb
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\ConnectDataBase.dll
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\Customer.dll
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\EPPlus.dll
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\Microsoft.Owin.dll
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\Owin.dll
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\ConnectDataBase.pdb
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\Customer.pdb
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\EPPlus.xml
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\bin\Debug\Microsoft.Owin.xml
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\obj\Debug\CustomerRepository.csprojAssemblyReference.cache
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\obj\Debug\CustomerRepository.csproj.CopyComplete
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\obj\Debug\CustomerRepository.dll
+E:\HCMUE\CNWEB\ccWeb\CustomerRepository\obj\Debug\CustomerRepository.pdb
+D:\tund\cnweb\CustomerRepository\bin\Debug\CustomerRepository.dll
+D:\tund\cnweb\CustomerRepository\bin\Debug\CustomerRepository.pdb
+D:\tund\cnweb\CustomerRepository\bin\Debug\ConnectDataBase.dll
+D:\tund\cnweb\CustomerRepository\bin\Debug\Customer.dll
+D:\tund\cnweb\CustomerRepository\bin\Debug\EPPlus.dll
+D:\tund\cnweb\CustomerRepository\bin\Debug\Microsoft.Owin.dll
+D:\tund\cnweb\CustomerRepository\bin\Debug\Owin.dll
+D:\tund\cnweb\CustomerRepository\bin\Debug\ConnectDataBase.pdb
+D:\tund\cnweb\CustomerRepository\bin\Debug\Customer.pdb
+D:\tund\cnweb\CustomerRepository\bin\Debug\EPPlus.xml
+D:\tund\cnweb\CustomerRepository\bin\Debug\Microsoft.Owin.xml
+D:\tund\cnweb\CustomerRepository\obj\Debug\CustomerRepository.csprojAssemblyReference.cache
+D:\tund\cnweb\CustomerRepository\obj\Debug\CustomerRepository.csproj.CoreCompileInputs.cache
+D:\tund\cnweb\CustomerRepository\obj\Debug\CustomerRepository.csproj.CopyComplete
+D:\tund\cnweb\CustomerRepository\obj\Debug\CustomerRepository.dll
+D:\tund\cnweb\CustomerRepository\obj\Debug\CustomerRepository.pdb

@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "ProductCheckInventory";
+    Layout = "~/Views/Shared/_LayoutEmpty.cshtml";
+}
+<h2>Kiểm kê hàng hóa ngày: </h2>
+<h2 id="toDay"></h2>
+<script>
+    var n = new Date();
+    var y = n.getFullYear();
+    var m = n.getMonth() + 1;
+    var d = n.getDate();
+    document.getElementById("toDay").innerHTML = d + "/" + m + "/" + y;
+</script>
+<div id="main-content">
+    <table class="table table-advance" id="table1">
+        <thead>
+            <tr>
+                <th>Tên sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Kiểm thực tế</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in this.ViewBag.Result)
+            {
+                <tr class="table-flag-blue">
+                    <td>@item.ProductName</td>
+                    <td>@Convert.ToInt32(item.Qty).ToString("#,##0")</td>
+                    <td></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<!-- END Main Content -->
